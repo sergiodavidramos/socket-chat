@@ -1,4 +1,4 @@
-# Chat: 📥📥
+# Chat: 📥
 
 Este es un servidor de express listo para ejecutarse y servir la carpeta public en la web.
 
@@ -10,4 +10,5 @@ npm install
 
 - `npm start`
 
-<!-- ![Captura de pantalla](./public/captura.png) -->
+![Captura de pantalla](./public/captura1.png)
+![Captura de pantalla](./public/captura2.png)
